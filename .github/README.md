@@ -49,7 +49,7 @@ func main() {
 }
 ```
 
-## Examples
+### 🎈 Examples
 
 Here’s another example! If you want to organize your web server into groups or use prefixes for routes, this will help you get started easily.
 
